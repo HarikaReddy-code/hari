@@ -1,0 +1,12 @@
+SIMPLE LAUNDRY SYSTEM IN PHP WITH SOURCE CODE:--
+
+The Simple Laundry System In PHP is a laundry management system in towns. The project contains the admin sides and the 
+user side. The admin is of two types: the main admin and the sub-admin(staff). The admin can view and manage the users,
+ sub-admin, and manage the laundry services. While the sub-admin can only manage the laundry services.
+
+The users are clients who want to receive laundry services. A user has to login first to check services. If he/she has 
+not registered, they can register first and then login. This project is a very simple project that solves laundry issues.
+
+Admin login details: (admin, admin)
+
+
